@@ -6,7 +6,13 @@
     "gênero": ["suspense psicológico (thriller)", "mistério", "drama"],
     "podeSerVistoPorMenores": true,
     "classificaçãoIndicativa": "+14",
-    "dataDeLançamentoRemake": null
+    "dataDeLançamentoRemake": null,
+    "elenco": {
+        "personagemPrincipal": "James Stewart como: John 'Scottie' Ferguson",
+        "interesseRomântico": "Kim Novak como: Madeleine Elster / Judy Barton",
+        "vilão": "Tom Helmore como: Gavin Elster",
+        "personagemSecundario": "Barbara Bel Geddes como: Marjorie 'Midge' Wood"
+    }
 }
 }
 

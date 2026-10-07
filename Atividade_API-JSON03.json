@@ -6,7 +6,12 @@
     "podeSerLidoPorMenores": true,
     "preço": 49.90,
     "quantidade": null,
-    "disponivel": true
+    "disponivel": true,
+    "publicadora":{
+        "nome": "Panini",
+        "fundada": 1961,
+        "localização": "Brasil"
+    }
 }
 }
 

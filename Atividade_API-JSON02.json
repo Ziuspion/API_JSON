@@ -6,7 +6,12 @@
     "idade": 16,
     "notas": 7.5,
     "aprovado": true,
-    "salaDoProximoA": null
+    "salaDoProximoA": null,
+    "escola": {
+        "nome": "Sesi Hagop Guerekmezian",
+        "N°": 427,
+        "cidade": "Guarulhos"
+    }
 }
 }
 
