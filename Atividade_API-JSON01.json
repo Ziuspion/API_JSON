@@ -5,7 +5,8 @@
     "diretor": "Alfred Hitchcock",
     "gênero": ["suspense psicológico (thriller)", "mistério", "drama"],
     "podeSerVistoPorMenores": true,
-    "classificaçãoIndicativa": "+14"
+    "classificaçãoIndicativa": "+14",
+    "dataDeLançamentoRemake": null
 }
 }
 
