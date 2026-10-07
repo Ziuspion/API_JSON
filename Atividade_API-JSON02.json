@@ -1,0 +1,11 @@
+{
+"aluno":{
+    "nome": "Orlando",
+    "sala": "2°C-EM",
+    "N°": 24,
+    "idade": 16,
+    "notas": 7.5,
+    "aprovado": true
+}
+}
+

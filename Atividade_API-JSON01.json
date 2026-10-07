@@ -1,0 +1,11 @@
+{
+"filme": {
+    "titulo": "Vertigo",
+    "ano": 1958,
+    "diretor": "Alfred Hitchcock",
+    "gênero": ["suspense psicológico (thriller)", "mistério", "drama"],
+    "podeSerVistoPorMenores": true,
+    "classificaçãoIndicativa": "+14"
+}
+}
+
